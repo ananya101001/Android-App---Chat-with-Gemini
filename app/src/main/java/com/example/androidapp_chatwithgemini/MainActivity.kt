@@ -53,7 +53,7 @@ class MainActivity : ComponentActivity() {
     private val generativeModel by lazy {
         GenerativeModel(
             modelName = "gemini-1.5-flash",
-            apiKey = "AIzaSyA1sCjjS7l80ik4Sdg-KZ_DPAWzL4pU6Ck" // Replace with your actual API key
+            apiKey = "" // Replace with your actual API key
         )
     }
 
