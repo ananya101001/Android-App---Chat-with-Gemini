@@ -1,10 +1,10 @@
-# Android App — Chat with Gemini 🤖💬
+# Android App — Chat with Gemini 
 
 An Android app that integrates with **Google’s Gemini API** to provide a simple **chat interface** where users can send prompts and receive AI-generated responses. Built with **Kotlin**, **Jetpack Compose**, and modern Android libraries.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Chat Interface**: Clean UI to enter a prompt and view AI responses  
 - **Gemini API Integration**: Uses Google’s Gemini model for generating answers  
@@ -14,7 +14,7 @@ An Android app that integrates with **Google’s Gemini API** to provide a simpl
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 - **Language**: Kotlin  
 - **UI**: Jetpack Compose  
@@ -25,7 +25,7 @@ An Android app that integrates with **Google’s Gemini API** to provide a simpl
 
 ---
 
-## 📲 Requirements
+##  Requirements
 
 - **Android Studio** (latest stable release)  
 - **Android SDK** 23+ (Marshmallow and above)  
@@ -77,7 +77,7 @@ flowchart TD
 
 
 
-## 🔐 Setup & Installation
+##  Setup & Installation
 
 1. **Clone the repository**
    ```bash
